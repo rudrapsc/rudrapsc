@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudra Pratap Singh Chauhan</h1>
-<h3 align="center">An Android Developer from India</h3>
+<h3 align="center">A Machine Learning Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrapsc&label=Profile%20views&color=0e75b6&style=flat" alt="photon3009" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrapsc&label=Profile%20views&color=0e75b6&style=flat" alt="rudrapsc" /> </p>
 
 - 🔭 I’m currently working on **Fullstack Flutter and Jetpack Compose App Development and Automation testing**
 
