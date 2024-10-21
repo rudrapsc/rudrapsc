@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=photon3009&label=Profile%20views&color=0e75b6&style=flat" alt="photon3009" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrapsc&label=Profile%20views&color=0e75b6&style=flat" alt="photon3009" /> </p>
 
 - 🔭 I’m currently working on **Fullstack Flutter and Jetpack Compose App Development and Automation testing**
 
