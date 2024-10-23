@@ -5,17 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrapsc&label=Profile%20views&color=0e75b6&style=flat" alt="rudrapsc" /> </p>
 
-- 🔭 I’m currently working on **Fullstack Flutter and Jetpack Compose App Development and Automation testing**
+- 🔭 I’m currently working on **IUNETS- the Fully invetible Unets**
 
-- 🌱 I’m currently learning **different backend technologies for app development**
+- 🌱 I’m currently learning **the ways of Computer Vision**
 
-- 👯 I’m looking to collaborate with **Fullstack App developers**
+- 👯 I’m looking to collaborate with **AI Engineers**
 
-- 💬 Ask me about **Flutter and Jetpack Compose**
+- 💬 Ask me about **How to make computer see things**
 
 - 📫 How to reach me **rudra.psc20@gmail.com**
 
-- 📄 Know about my experiences [Link](https://shorturl.at/cxFT6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
