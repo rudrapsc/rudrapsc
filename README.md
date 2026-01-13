@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/photon3009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudrapsc" height="30" width="40" /></a> -->
-<a href="[[[https://linkedin.com/in/shivam-verma-1554b922](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)3](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)3](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-verma-1554b9223" height="30" width="40" /></a>
+<a href="[[[https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)3](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)3](https://www.linkedin.com/in/rudra-pratap-singh-chauhan-b86029234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-verma-1554b9223" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
