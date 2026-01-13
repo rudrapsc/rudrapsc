@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Pratap Singh Chauhan</h1>
-<h3 align="center">A Machine Learning Engineer from India</h3>
+<h3 align="center">A Machine Learning Engineer from Earth 🌎</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
